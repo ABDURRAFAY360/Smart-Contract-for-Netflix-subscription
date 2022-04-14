@@ -1,0 +1,39 @@
+body{
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #000000, #434343);
+    background: linear-gradient(to right, #000000, #434343);
+}
+
+.form{
+    /* background: "#8e0e00";
+    background: -webkit-linear-gradient(to right, #8e0e00, #1f1c18);
+    background: linear-gradient(to right, #8e0e00, #1f1c18); */
+    background-color: white;
+    border-radius: 5px;
+    width: 850px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+   
+}
